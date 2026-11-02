@@ -1,3 +1,5 @@
+https://github.com/Ajay-Singh-Bais/supermarket-simulator
+
 # Data-Driven Supermarket Administration System
 
 A modular, command-line interface (CLI) Supermarket Simulator and Point-of-Sale (POS) system built using **Python** and **SQLite**. Designed with professional software engineering practices, including atomic database transactions, session-aware terminal logic, and strict role-based separation of concerns.
